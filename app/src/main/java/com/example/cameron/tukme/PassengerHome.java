@@ -53,7 +53,7 @@ public class PassengerHome extends Activity {
             @Override
             public void onClick(View v)
             {
-                Intent mapIntent = new Intent(PassengerHome.this, MapLocationActivity.class);
+                Intent mapIntent = new Intent(PassengerHome.this, MapWebView.class);
 
                 mapIntent.putExtra("location", sharedPreferences.getString("Location1", ""));
                 startActivity(mapIntent);

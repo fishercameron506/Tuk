@@ -16,6 +16,8 @@
     <string name="title_activity_ratings_review">RatingsReview</string>
     <string name="title_activity_my_location">MyLocation</string>
     <string name="title_activity_map">Map</string>
+    <string name="title_activity_map_driver">Map</string>
+    <string name="title_activity_map_web_view">MapWebView</string>
 
 
 

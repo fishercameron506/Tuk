@@ -82,6 +82,10 @@
             android:name=".MyLocation"
             android:label="@string/title_activity_my_location" >
         </activity>
+        <activity
+            android:name=".MapWebView"
+            android:label="@string/title_activity_map_web_view" >
+        </activity>
     </application>
 
 </manifest>
